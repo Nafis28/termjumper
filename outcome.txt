@@ -1,0 +1,5 @@
+Game over. Final stats:
+Player name: nafis
+Fuel charge: 3
+Fuel cells found: 2
+Turns taken: 7
