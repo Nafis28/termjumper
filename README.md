@@ -2,14 +2,6 @@
 
 Java Jumper is a simple RPG game where players navigate a character through the perilous Nowhere Dimension with the goal of reaching a dimensional portal to escape. Using a special jumper device, players can leap between buildings, collect fuel cells to recharge their jumper, and avoid traps set by the Nowhere Police.
 
-## Table of Contents
-- [Getting Started](#getting-started)
-- [Gameplay](#gameplay)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
