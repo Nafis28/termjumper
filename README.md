@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 ![image](https://github.com/Nafis28/termjumper/assets/30291815/fbbb4e2b-669c-4298-9b73-be459a63a8e9)
 
 
-Project was done in Master of Computer Science.
+Project was done in Master of Computer Science - Monash University (Melbourne)
 
 -Java programming
 
